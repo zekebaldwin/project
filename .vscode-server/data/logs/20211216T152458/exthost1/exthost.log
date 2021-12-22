@@ -1,0 +1,12 @@
+[2021-12-16 15:24:59.598] [exthost] [info] Extension host with pid 148 started
+[2021-12-16 15:24:59.605] [exthost] [info] Lock '/home/zekebaldwin/.vscode-server/data/User/workspaceStorage/2d614a0cf05a6355f5279992f53f0e9f/vscode.lock': Lock acquired.
+[2021-12-16 15:24:59.665] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-16 15:24:59.674] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-16 15:24:59.695] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-16 15:24:59.824] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-16 15:24:59.933] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-16 15:24:59.953] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-16 15:24:59.957] [exthost] [info] Eager extensions activated
+[2021-12-16 15:25:39.449] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-12-16 15:25:39.449] [exthost] [info] Lock '/home/zekebaldwin/.vscode-server/data/User/workspaceStorage/2d614a0cf05a6355f5279992f53f0e9f/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-12-16 15:25:39.471] [exthost] [info] Extension host with pid 148 exiting with code 0

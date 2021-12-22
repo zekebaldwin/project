@@ -1,0 +1,14 @@
+[2021-12-21 01:39:47.522] [exthost] [info] Extension host with pid 836 started
+[2021-12-21 01:39:47.593] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-21 01:39:47.599] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-21 01:39:47.617] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-21 01:39:47.708] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-21 01:39:47.806] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-21 01:39:47.829] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-21 01:39:47.835] [exthost] [info] Eager extensions activated
+[2021-12-21 01:39:48.027] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1266
+[2021-12-21 01:51:47.359] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1266
+[2021-12-21 01:54:33.894] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1266
+[2021-12-21 01:55:10.766] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1266
+[2021-12-21 01:56:14.676] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-12-21 01:56:14.711] [exthost] [info] Extension host with pid 836 exiting with code 0
