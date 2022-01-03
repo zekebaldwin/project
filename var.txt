@@ -1,0 +1,7 @@
+1.)difference between var and let is that var can be reassigned and redeclared and is function scoped, let can only be reassigned no redeclared like var
+
+2.) differnece in car and const is that const cant be redeclared or reassigned and is block scoped
+
+3.)difference of let and const is that cosnt cant be reassigned 
+
+4.) hoisting is pushing a varibale to the top of a page or of its scope
