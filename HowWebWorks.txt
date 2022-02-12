@@ -1,0 +1,23 @@
+1.)http is an version of a protocol that is standard for a typical page on the World Wide Web. its designed for communication between a web browser and a server
+
+2.)url is combonation of all information need to acess a web resource. It includes Protocol, Hostname, Port, Resource, and Query in that order.
+
+3.)dns is last stop in the process of geting connected to the web, sends ip adress back to your computer to allow it to connect to the web
+
+4.) Query string is an optional part of a url that allows certain urls to have unique characteristics and go further or deeper into a web page
+
+5.)request and response. they differ because one is a machine attempting to communiccate to a server and one is a server sending information to a machine 
+
+6.) http request is your machine reaching out to a server of some sort in attempt to recieve information
+
+7.)a http respoonse is a server sending information to a machine to complete a task
+
+8.) http header is info that is used to create the page when a request is sent. two examples are the language and the content type
+
+9.) What happens when you type a URL in a browser?
+
+Your browser “resolves” the name into an IP address using DNS
+Your browser makes a request to that IP address, including headers (info about browser, any previous cookies, and other things)
+The server sends a response (typically, HTML, with a status code (200 if it was sucessful)
+The browser makes a DOM from that HTML, and finds any other resources needed (images, CSS, JavaScript, etc)
+The browser makes separate HTTP requests for those resources and receives response from the server for each
